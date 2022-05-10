@@ -1,0 +1,14 @@
+Gitkraken workflow
+
+1. Clone / open repo
+2. Create a branch (push)
+3. Make some changes (push)
+4. Merge your changes (push)
+
+Bonus:
+
+Folk someone else's repo
+Create a branch
+Make some changes
+Merge your changes
+Open a PR
